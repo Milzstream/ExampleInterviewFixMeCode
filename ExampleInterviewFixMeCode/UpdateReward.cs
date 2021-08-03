@@ -16,7 +16,7 @@ namespace ExampleInterviewFixMeCode
 {
     public static class UpdateReward
     {
-        //Instanciated Reward Data Adapter
+        //Instantiated Reward Data Adapter
         public static RewardDataAdapter _RewardDataAdapter = new RewardDataAdapter();
 
         [FunctionName("Function1")]
